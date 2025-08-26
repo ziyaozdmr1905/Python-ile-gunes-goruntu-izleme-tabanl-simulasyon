@@ -1,0 +1,10 @@
+Tavşan:4
+Kedi:4
+Arı:4
+Tavuk:2
+İnek:4
+Örümcek:6
+Böcek:6
+Keçi:4
+Köpek:4
+Kuş:2

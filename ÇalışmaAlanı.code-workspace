@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../HTLM"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../JAVASCRİPT"
+		},
+		{
+			"path": "../C++"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		{
+			"args": [
+				"--extensionDevelopmentPath=${workspaceFolder}"
+			],
+			"name": "Eklentiyi Başlat",
+			"outFiles": [
+				"${workspaceFolder}/out/**/*.js"
+			],
+			"preLaunchTask": "npm",
+			"request": "launch",
+			"type": "extensionHost"
+		}
+		]
+	}
+}
